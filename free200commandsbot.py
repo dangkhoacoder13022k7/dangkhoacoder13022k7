@@ -106,7 +106,7 @@ async def on_ready():
             Colorate.Vertical(
                 Colors.green_to_yellow,
                 f"""[=]-------------------------------------------------------------------------------------------[=]
-[  SELFBOT  VERSION  1  |  MADED  BY  :-  {npdk1.user.name}  |  LOGIN  AS  :-  {npdk1.user.name}  ]
+[  SELFBOT  VERSION  1  |  MADED  BY  :-  discord.gg/foreststore  |  LOGIN  AS  :-  {npdk1.user.name}  ]
 [=]-------------------------------------------------------------------------------------------[=]
 """,
                 1,
